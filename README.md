@@ -25,4 +25,4 @@ I'm currently active in contributing as Curriculum Developer at <a href="https:/
 </p>
 
 ### Reach me on
-- <a href="www.linkedin.com/in/kamal-akbar-002343293">LinkedIn</a>
+- <a href="www.linkedin.com/in/kamal-akbar">LinkedIn</a>
